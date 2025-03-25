@@ -6,7 +6,7 @@ I'm Vinicius, a backend developer with a primary focus on Java. However, I'm pas
 Name: Vinicius Nascimento <br>
 Age: 24 <br>
 Living in: Brasilia(DF) <br>
-University: Instituto Federal de Brasilia (in course/3rd semester) <br>
+University: Instituto Federal de Brasilia (in course - 5th semester) <br>
 Stack: Java & PostgreSQL <br>
 
 ## Tech Stack
